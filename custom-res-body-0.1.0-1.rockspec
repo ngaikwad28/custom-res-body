@@ -1,5 +1,5 @@
 package = "custom-res-body"
-version = "1.0.0-1"
+version = "0.1.0-1"
 rockspec_format = "1.0"
 source = {
   url = "git://your-repo-url.git",
